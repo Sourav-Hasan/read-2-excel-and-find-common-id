@@ -31,7 +31,6 @@ for i in common:
     print(str(i))
 
 
-#print(list2)
 
 # import pandas as pd
 #
